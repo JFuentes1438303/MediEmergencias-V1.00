@@ -1,0 +1,127 @@
+body{
+	background: #DCDCDC; 	
+}
+
+.font{
+	font-size: 15px
+}
+
+.div{
+	width: 60%; 
+	box-shadow: 3px 3px 12px #000000; 
+	margin-top: 5%;
+	border-radius: 15px;
+	padding-bottom: 2%;
+	background: #fff;
+}
+
+.titulos{
+	/*background: #063667; */
+	color: #000; 
+	padding: 18px 15px; 
+	text-align: center; 
+	font-size: 25px;
+	font-weight: bold;
+	text-shadow: 0.5px 0.5px 1px #F70501;
+}
+
+.logo{
+	width: 100%;
+}
+
+.logo2{
+	width: 60%;
+	padding-top: 25px;
+}
+
+.cabeza{
+	color:#fff;
+	font-size: 22px;
+	text-shadow: 2px 2px 3px #000;
+}
+
+.cabeza:hover{
+	text-decoration: none;
+	transition: 0.5s;
+	color:#fff;
+}
+
+.labels{
+	margin-left: 90px;
+	margin-top: 38px;
+}
+
+.iconos{
+	margin-top: 42px;
+	margin-left: 6px;
+}
+
+.inputs{
+	margin-top: 3%;
+}
+
+.boton{
+	background: #fff;
+	border: 1px solid #000; 
+	color: #000;
+}
+
+.boton:hover{
+	background: #000 !important;
+	transition: 0.5s;
+	color: #fff;
+}
+
+.boton_menu{
+	background: #fff;
+	color:#000;
+	font-size: 21px;
+}
+
+.boton_menu:hover{
+	transition: 0.5s;
+	color:#FFF;
+	background: #F70501;
+	border: 1px solid #fff; 
+}
+
+.perfil{
+	color:#1F1F1F !important;
+	font-size: 19px;
+	text-shadow: 2px 2px 3px #000;
+}
+
+.boton_perfil{
+	color:#fff !important;
+	margin-right: 110px;
+}
+
+.desplegable:hover{
+	background: #EEEEEE;
+}
+
+.enlaces{
+	background: #f2f2f2;
+}
+
+.enlaces:hover{
+	background: #DCDCDC;
+	border-right: 2px solid #818181;
+}
+
+.tabla{
+	margin-top: 5%;
+	box-shadow: 3px 3px 12px #000000; 	
+}
+
+.th{
+	color:#fff;
+	text-align: center;
+	font-size: 15px;
+}
+
+.td{
+	background: #fff;
+	text-align: center;
+	font-size: 14.6px;
+}
